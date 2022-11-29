@@ -1,4 +1,4 @@
-var haslo = "Madzia i Igor";
+var haslo = "ala ma kota i kot ma ale";
 haslo = haslo.toUpperCase();
 var haslo1 = "";
 
