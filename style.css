@@ -1,0 +1,80 @@
+body
+{
+    background-color: #000000;
+    color: lightgray;
+    font-size: 28px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 700;
+}
+
+#pojemnik
+{
+    width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#plansza
+{
+    width: 1280px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 48px;
+}
+
+#szubienica
+{
+    float: left;
+    width: 640px;
+    text-align: center;
+    min-height: 467px;
+}
+
+
+#alfabet
+{
+    float: left;
+    width: 640px;
+    text-align: center;
+    min-height: 467px;
+}
+.litera
+{
+    width: 45px;
+    font-size: 30px;
+    height: 45px;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    border: 4px solid gray;
+    border-radius: 18px;
+    float: left;
+    cursor: pointer;
+}
+
+.litera:hover
+{
+    background-color: #080101;
+    color: #e0cece;
+    border: 4px solid white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
